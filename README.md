@@ -13,3 +13,16 @@ Features:
 - Read recipe
 - Add recipe or Category
 - Delete recipe or Category
+
+
+## search directories and files
+Extracts an archive, then searches through the directories, and files to find serial numbers according to pattern given in instructions. 
+Prints the serial number and the corresponding file. 
+[Screenshot serial number search](https://github.com/James-Da/python_practice/assets/66693959/637d0252-1f2a-48ad-8732-18742fad6a82)
+
+Features:
+- shutil to unpack the archive
+- datetime to display current date and format the string
+- re for regular expression search
+- time to time the operation, math.ceil to round up the result.
+- os.walk to navigate through the directories
