@@ -26,3 +26,7 @@ Features:
 - re for regular expression search
 - time to time the operation, math.ceil to round up the result.
 - os.walk to navigate through the directories
+
+## Space invader using pygame WiP
+Space invader using pygame, used graphical assets from flaticon. Did not use OOP to get quicker into experimentation with pygame. 
+[Screenshot space invader](https://github.com/James-Da/python_practice/assets/66693959/3fb07920-21fa-4e6c-ae94-223b1219dead)
